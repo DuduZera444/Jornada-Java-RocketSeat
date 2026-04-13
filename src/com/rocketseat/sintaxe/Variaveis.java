@@ -9,7 +9,9 @@ public class Variaveis {
 		        int ANO_2000 = 2000;
 
 		        /* As variaveis são espaços na memoria para guardar dados que podem ser requisitados
-		        ou modificados, 
+		        ou modificados, Elas devem ser declaradas seguindo regras para que funcionem 
+		        corretamente. [Tipo de Variavel] + [Nome da Variavel] = [Valor que a variavel ira 
+		        armazenar.
 		         */
 
 
