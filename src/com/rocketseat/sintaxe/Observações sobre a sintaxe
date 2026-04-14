@@ -1,0 +1,4 @@
+Observações sobre a sintaxe.
+Em java existe um padrão que deve ser seguido, o que inclui nomes de variaveis e métodos que não podem ser declaradas de qualquer forma.
+*** As variaveis não podem começar com numeros e nem usar palavras reservadas da linguagem como CLASS,VOID,INT entre outros. o java 
+tambem é case sensitive (diferencia maiusculas e minusculas) e por fim não é permitido usar Simbolos como ! @ % etc...
