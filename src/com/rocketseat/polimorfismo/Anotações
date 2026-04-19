@@ -1,0 +1,15 @@
+Classes Abstratas -> São classe que servem como modelo para outras classe, mas ela não pode ser instanciada.
+
+Metodos Abstratos -> Funcionam como a classe abstrata, o método não tem corpo, apenas definem oq deve ser feito
+e a subclasse o sobrescreve com o que sera executado ali.
+
+A classe abstrata tambem pode ter métodos comuns com lógica já pronta (Métodos Concretos).
+
+Interface -> Funciona como um contrato, ela define um conjunto de métodos que a classe deve implementar.
+diferente da herança, que so pode herdar de um, varias interfaces podem ser implementadas por uma só classe.
+
+Uma Classe pode herdar de uma superclasse e implementar interfaces ao mesmo tempo só seguir o padrão da sintaxe
+Primeiro a herança depois a interface.
+
+Polimorfismo -> A subclasse consegue sobreescrever um metodo herdado da superclasse para lhe dar um comportamento
+especifico. 
