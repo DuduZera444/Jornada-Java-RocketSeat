@@ -39,4 +39,16 @@ public class Criando_um_objeto {
 		System.out.println("Escola: " + this.escola);
 	}
 	
+	/* Nessa classe criei oque é chamado de objeto, no inicio declaramos os atibutos do objeto em questão nesse caso um aluno
+	 * a palavra private é um modificador de acesso que faz com que apenas a propria classe possa alterar seus atributos.
+	 * Logo abaixo declarei um construtor, ele é um bloco que codigo que serve para definir se quando o objeto for instaciado 
+	 * ele ja iniciara com atributos basicamente, se nenhum construtor for declarado o java cria um construtor vazio que deixa
+	 * os atributos da classe vazios.
+	 * 
+	 * apos isso temos os getters e setters, os getters servem para que outra classe consiga visualizar os atributos do objeto 
+	 * instanciado. o setters conseguem "setar" um valor para o atributo do objeto em questão.
+	 * como declarei os atributos como private as outras classes só conseguem acessa-los atraves dos getters e setters que 
+	 * foram declarados.
+	 * */
+	
 }
