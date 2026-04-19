@@ -1,0 +1,11 @@
+Nesse pacote pilarespoo foi praticado o encapsulamento, a criação de objetos e a pratica da herança
+
+A classe [SistemadeMensagem] é a superClasse ou classe pai e possui os atributos e metodos que serão
+usados pelas classes. A superClasse serve como um modelo que as sub-classes conseguem usar e se 
+precisar podem sobrescrever fazendo alterações que é chamado de polimorfismo mas ainda não posto em
+prática nesse exemplo. Para que as sub-classes consigam usar as funções da super classe a palavra 
+chave extends é adicionada ao lado da declaração da classe.
+
+Na classe main os objetos de teste são instanciados mas apenas a classe pai tem os metodos declarados
+como as sub-classes herdaram no main da pra notar a repetição dos mesmos metodos para diferentes objetos
+mesmos tendo sido declarados apenas uma vez, isso evita a copia de códigos em diferentes classes.
